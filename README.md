@@ -9,7 +9,7 @@ Abhaya Swara tells you whether your **Iḍā (left / lunar / cooling)** or **Pi�
 [![No backend](https://img.shields.io/badge/backend-none-22c55e.svg)]()
 [![Made by Astrogaami](https://img.shields.io/badge/by-Astrogaami-92400e.svg)](https://astrogaami.com)
 
-[**⬇ Download APK**](https://github.com/<your-username>/abhaya-swara/releases/latest) · [**🌐 Live Web App**](https://<your-username>.github.io/abhaya-swara/) · [**Report a bug**](https://github.com/<your-username>/abhaya-swara/issues)
+
 
 </div>
 
